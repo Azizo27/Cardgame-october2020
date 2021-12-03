@@ -1,0 +1,805 @@
+# depslib dependency file v1.0
+1606664738 source:c:\users\abdelaziz\desktop\projet-vpresque finale\projet-vpresque finale\projet informatique\carte.cpp
+	"header.h"
+
+1606661057 c:\users\abdelaziz\desktop\projet-vpresque finale\projet-vpresque finale\projet informatique\header.h
+	<iostream>
+	"Carte.h"
+	"Deck.h"
+	"Hand.h"
+	"Carte.h"
+	"Joueur.h"
+	"terrain.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606393379 c:\users\abdelaziz\desktop\projet-vpresque finale\projet-vpresque finale\projet informatique\carte.h
+	<iostream>
+
+1606069444 c:\users\abdelaziz\desktop\projet-vpresque finale\projet-vpresque finale\projet informatique\deck.h
+	"Carte.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+
+1606347246 c:\users\abdelaziz\desktop\projet-vpresque finale\projet-vpresque finale\projet informatique\hand.h
+	"Carte.h"
+	"Deck.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+
+1606665532 c:\users\abdelaziz\desktop\projet-vpresque finale\projet-vpresque finale\projet informatique\joueur.h
+	"Deck.h"
+	"Carte.h"
+	"Hand.h"
+
+1606583985 c:\users\abdelaziz\desktop\projet-vpresque finale\projet-vpresque finale\projet informatique\terrain.h
+	<iostream>
+	"Carte.h"
+	"Deck.h"
+	"Hand.h"
+	"Carte.h"
+	"Joueur.h"
+	"terrain.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606662733 source:c:\users\abdelaziz\desktop\projet-vpresque finale\projet-vpresque finale\projet informatique\creerdeck.cpp
+	"header.h"
+
+1606237341 source:c:\users\abdelaziz\desktop\projet-vpresque finale\projet-vpresque finale\projet informatique\deck.cpp
+	"header.h"
+
+1606588500 source:c:\users\abdelaziz\desktop\projet-vpresque finale\projet-vpresque finale\projet informatique\hand.cpp
+	"header.h"
+
+1606665052 source:c:\users\abdelaziz\desktop\projet-vpresque finale\projet-vpresque finale\projet informatique\initialiseretaffichagereserve.cpp
+	"header.h"
+
+1606665286 source:c:\users\abdelaziz\desktop\projet-vpresque finale\projet-vpresque finale\projet informatique\main.cpp
+	"header.h"
+
+1606233843 source:c:\users\abdelaziz\desktop\projet-vpresque finale\projet-vpresque finale\projet informatique\piocheretcreermain.cpp
+	"header.h"
+
+1606664677 source:c:\users\abdelaziz\desktop\projet-vpresque finale\projet-vpresque finale\projet informatique\terrain.cpp
+	"header.h"
+
+1606585038 source:c:\users\abdelaziz\desktop\projet-vpresque finale\projet-vpresque finale\projet informatique\tour.cpp
+	"header.h"
+
+1606664468 source:c:\users\abdelaziz\desktop\projet-vpresque finale\projet-vpresque finale\projet informatique\joueur.cpp
+	"Joueur.h"
+	<iostream>
+	"header.h"
+
+1606503570 source:c:\users\abdelaziz\desktop\projet-vpresque finale - majuscule\projet-vpresque finale\projet informatique\carte.cpp
+	"header.h"
+
+1606503509 c:\users\abdelaziz\desktop\projet-vpresque finale - majuscule\projet-vpresque finale\projet informatique\header.h
+	<iostream>
+	"Carte.h"
+	"Deck.h"
+	"Hand.h"
+	"Carte.h"
+	"Joueur.h"
+	"terrain.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606393379 c:\users\abdelaziz\desktop\projet-vpresque finale - majuscule\projet-vpresque finale\projet informatique\carte.h
+	<iostream>
+
+1606069444 c:\users\abdelaziz\desktop\projet-vpresque finale - majuscule\projet-vpresque finale\projet informatique\deck.h
+	"Carte.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+
+1606347246 c:\users\abdelaziz\desktop\projet-vpresque finale - majuscule\projet-vpresque finale\projet informatique\hand.h
+	"Carte.h"
+	"Deck.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+
+1606391927 c:\users\abdelaziz\desktop\projet-vpresque finale - majuscule\projet-vpresque finale\projet informatique\joueur.h
+	"Deck.h"
+	"Carte.h"
+	"Hand.h"
+
+1606583985 c:\users\abdelaziz\desktop\projet-vpresque finale - majuscule\projet-vpresque finale\projet informatique\terrain.h
+	<iostream>
+	"Carte.h"
+	"Deck.h"
+	"Hand.h"
+	"Carte.h"
+	"Joueur.h"
+	"terrain.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606576217 source:c:\users\abdelaziz\desktop\projet-vpresque finale - majuscule\projet-vpresque finale\projet informatique\creerdeck.cpp
+	"header.h"
+
+1606237341 source:c:\users\abdelaziz\desktop\projet-vpresque finale - majuscule\projet-vpresque finale\projet informatique\deck.cpp
+	"header.h"
+
+1606496309 source:c:\users\abdelaziz\desktop\projet-vpresque finale - majuscule\projet-vpresque finale\projet informatique\hand.cpp
+	"header.h"
+
+1606581196 source:c:\users\abdelaziz\desktop\projet-vpresque finale - majuscule\projet-vpresque finale\projet informatique\joueur.cpp
+	"Joueur.h"
+	<iostream>
+	"header.h"
+
+1606576346 source:c:\users\abdelaziz\desktop\projet-vpresque finale - majuscule\projet-vpresque finale\projet informatique\main.cpp
+	"header.h"
+
+1606233843 source:c:\users\abdelaziz\desktop\projet-vpresque finale - majuscule\projet-vpresque finale\projet informatique\piocheretcreermain.cpp
+	"header.h"
+
+1606584343 source:c:\users\abdelaziz\desktop\projet-vpresque finale - majuscule\projet-vpresque finale\projet informatique\tour.cpp
+	"header.h"
+
+1606584448 source:c:\users\abdelaziz\desktop\projet-vpresque finale - majuscule\projet-vpresque finale\projet informatique\initialiseretaffichagereserve.cpp
+	"header.h"
+
+1606584343 source:c:\users\abdelaziz\desktop\projet-vpresque finale - majuscule\projet-vpresque finale\projet informatique\terrain.cpp
+	"header.h"
+
+1606664498 source:c:\users\abdelaziz\desktop\projet-vpresque finale\projet-vpresque finale\projet informatique\menu.cpp
+	"header.h"
+
+1606664738 source:c:\users\abdelaziz\desktop\projet-vpresque finale - copie\projet-vpresque finale\projet informatique\carte.cpp
+	"header.h"
+
+1606668385 c:\users\abdelaziz\desktop\projet-vpresque finale - copie\projet-vpresque finale\projet informatique\header.h
+	<iostream>
+	"Carte.h"
+	"Deck.h"
+	"Hand.h"
+	"Carte.h"
+	"Joueur.h"
+	"terrain.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606393379 c:\users\abdelaziz\desktop\projet-vpresque finale - copie\projet-vpresque finale\projet informatique\carte.h
+	<iostream>
+
+1606069444 c:\users\abdelaziz\desktop\projet-vpresque finale - copie\projet-vpresque finale\projet informatique\deck.h
+	"Carte.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+
+1606347246 c:\users\abdelaziz\desktop\projet-vpresque finale - copie\projet-vpresque finale\projet informatique\hand.h
+	"Carte.h"
+	"Deck.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+
+1606669128 c:\users\abdelaziz\desktop\projet-vpresque finale - copie\projet-vpresque finale\projet informatique\joueur.h
+	"Deck.h"
+	"Carte.h"
+	"Hand.h"
+
+1606583985 c:\users\abdelaziz\desktop\projet-vpresque finale - copie\projet-vpresque finale\projet informatique\terrain.h
+	<iostream>
+	"Carte.h"
+	"Deck.h"
+	"Hand.h"
+	"Carte.h"
+	"Joueur.h"
+	"terrain.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606662733 source:c:\users\abdelaziz\desktop\projet-vpresque finale - copie\projet-vpresque finale\projet informatique\creerdeck.cpp
+	"header.h"
+
+1606237341 source:c:\users\abdelaziz\desktop\projet-vpresque finale - copie\projet-vpresque finale\projet informatique\deck.cpp
+	"header.h"
+
+1606588500 source:c:\users\abdelaziz\desktop\projet-vpresque finale - copie\projet-vpresque finale\projet informatique\hand.cpp
+	"header.h"
+
+1606669304 source:c:\users\abdelaziz\desktop\projet-vpresque finale - copie\projet-vpresque finale\projet informatique\initialiseretaffichagereserve.cpp
+	"header.h"
+
+1606669304 source:c:\users\abdelaziz\desktop\projet-vpresque finale - copie\projet-vpresque finale\projet informatique\main.cpp
+	"header.h"
+
+1606233843 source:c:\users\abdelaziz\desktop\projet-vpresque finale - copie\projet-vpresque finale\projet informatique\piocheretcreermain.cpp
+	"header.h"
+
+1606664677 source:c:\users\abdelaziz\desktop\projet-vpresque finale - copie\projet-vpresque finale\projet informatique\terrain.cpp
+	"header.h"
+
+1606669054 source:c:\users\abdelaziz\desktop\projet-vpresque finale - copie\projet-vpresque finale\projet informatique\tour.cpp
+	"header.h"
+
+1606669376 source:c:\users\abdelaziz\desktop\projet-vpresque finale - copie\projet-vpresque finale\projet informatique\joueur.cpp
+	"Joueur.h"
+	<iostream>
+	"header.h"
+
+1606664498 source:c:\users\abdelaziz\desktop\projet-vpresque finale - copie\projet-vpresque finale\projet informatique\menu.cpp
+	"header.h"
+
+1607165433 source:c:\users\abdelaziz\desktop\projet-v-presque finale\projet-vpresque finale\projet informatique\carte.cpp
+	"header.h"
+
+1606668385 c:\users\abdelaziz\desktop\projet-v-presque finale\projet-vpresque finale\projet informatique\header.h
+	<iostream>
+	"Carte.h"
+	"Deck.h"
+	"Hand.h"
+	"Carte.h"
+	"Joueur.h"
+	"terrain.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606393379 c:\users\abdelaziz\desktop\projet-v-presque finale\projet-vpresque finale\projet informatique\carte.h
+	<iostream>
+
+1606069444 c:\users\abdelaziz\desktop\projet-v-presque finale\projet-vpresque finale\projet informatique\deck.h
+	"Carte.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+
+1606347246 c:\users\abdelaziz\desktop\projet-v-presque finale\projet-vpresque finale\projet informatique\hand.h
+	"Carte.h"
+	"Deck.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+
+1607195263 c:\users\abdelaziz\desktop\projet-v-presque finale\projet-vpresque finale\projet informatique\joueur.h
+	"Deck.h"
+	"Carte.h"
+	"Hand.h"
+
+1607195644 c:\users\abdelaziz\desktop\projet-v-presque finale\projet-vpresque finale\projet informatique\terrain.h
+	<iostream>
+	"Carte.h"
+	"Deck.h"
+	"Hand.h"
+	"Carte.h"
+	"Joueur.h"
+	"terrain.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1607198475 source:c:\users\abdelaziz\desktop\projet-v-presque finale\projet-vpresque finale\projet informatique\creerdeck.cpp
+	"header.h"
+
+1606237341 source:c:\users\abdelaziz\desktop\projet-v-presque finale\projet-vpresque finale\projet informatique\deck.cpp
+	"header.h"
+
+1606588500 source:c:\users\abdelaziz\desktop\projet-v-presque finale\projet-vpresque finale\projet informatique\hand.cpp
+	"header.h"
+
+1607261496 source:c:\users\abdelaziz\desktop\projet-v-presque finale\projet-vpresque finale\projet informatique\initialiseretaffichagereserve.cpp
+	"header.h"
+
+1607195263 source:c:\users\abdelaziz\desktop\projet-v-presque finale\projet-vpresque finale\projet informatique\joueur.cpp
+	"Joueur.h"
+	<iostream>
+	"header.h"
+
+1607098103 source:c:\users\abdelaziz\desktop\projet-v-presque finale\projet-vpresque finale\projet informatique\main.cpp
+	"header.h"
+
+1607098103 source:c:\users\abdelaziz\desktop\projet-v-presque finale\projet-vpresque finale\projet informatique\menu.cpp
+	"header.h"
+
+1606233843 source:c:\users\abdelaziz\desktop\projet-v-presque finale\projet-vpresque finale\projet informatique\piocheretcreermain.cpp
+	"header.h"
+
+1607207366 source:c:\users\abdelaziz\desktop\projet-v-presque finale\projet-vpresque finale\projet informatique\terrain.cpp
+	"header.h"
+
+1607197017 source:c:\users\abdelaziz\desktop\projet-v-presque finale\projet-vpresque finale\projet informatique\tour.cpp
+	"header.h"
+
+1607165433 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h\projet-vpresque finale\projet informatique\carte.cpp
+	"header.h"
+
+1606668385 c:\users\abdelaziz\desktop\projet-v-presque finale - 22h\projet-vpresque finale\projet informatique\header.h
+	<iostream>
+	"Carte.h"
+	"Deck.h"
+	"Hand.h"
+	"Carte.h"
+	"Joueur.h"
+	"terrain.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606393379 c:\users\abdelaziz\desktop\projet-v-presque finale - 22h\projet-vpresque finale\projet informatique\carte.h
+	<iostream>
+
+1606069444 c:\users\abdelaziz\desktop\projet-v-presque finale - 22h\projet-vpresque finale\projet informatique\deck.h
+	"Carte.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+
+1606347246 c:\users\abdelaziz\desktop\projet-v-presque finale - 22h\projet-vpresque finale\projet informatique\hand.h
+	"Carte.h"
+	"Deck.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+
+1606669128 c:\users\abdelaziz\desktop\projet-v-presque finale - 22h\projet-vpresque finale\projet informatique\joueur.h
+	"Deck.h"
+	"Carte.h"
+	"Hand.h"
+
+1606583985 c:\users\abdelaziz\desktop\projet-v-presque finale - 22h\projet-vpresque finale\projet informatique\terrain.h
+	<iostream>
+	"Carte.h"
+	"Deck.h"
+	"Hand.h"
+	"Carte.h"
+	"Joueur.h"
+	"terrain.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1607174744 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h\projet-vpresque finale\projet informatique\creerdeck.cpp
+	"header.h"
+
+1606237341 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h\projet-vpresque finale\projet informatique\deck.cpp
+	"header.h"
+
+1606588500 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h\projet-vpresque finale\projet informatique\hand.cpp
+	"header.h"
+
+1607165433 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h\projet-vpresque finale\projet informatique\initialiseretaffichagereserve.cpp
+	"header.h"
+
+1607118626 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h\projet-vpresque finale\projet informatique\joueur.cpp
+	"Joueur.h"
+	<iostream>
+	"header.h"
+
+1607098103 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h\projet-vpresque finale\projet informatique\main.cpp
+	"header.h"
+
+1607098103 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h\projet-vpresque finale\projet informatique\menu.cpp
+	"header.h"
+
+1606233843 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h\projet-vpresque finale\projet informatique\piocheretcreermain.cpp
+	"header.h"
+
+1607118832 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h\projet-vpresque finale\projet informatique\terrain.cpp
+	"header.h"
+
+1607177100 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h\projet-vpresque finale\projet informatique\tour.cpp
+	"header.h"
+
+1607165433 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h - copie\projet-vpresque finale\projet informatique\carte.cpp
+	"header.h"
+
+1606668385 c:\users\abdelaziz\desktop\projet-v-presque finale - 22h - copie\projet-vpresque finale\projet informatique\header.h
+	<iostream>
+	"Carte.h"
+	"Deck.h"
+	"Hand.h"
+	"Carte.h"
+	"Joueur.h"
+	"terrain.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606393379 c:\users\abdelaziz\desktop\projet-v-presque finale - 22h - copie\projet-vpresque finale\projet informatique\carte.h
+	<iostream>
+
+1606069444 c:\users\abdelaziz\desktop\projet-v-presque finale - 22h - copie\projet-vpresque finale\projet informatique\deck.h
+	"Carte.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+
+1606347246 c:\users\abdelaziz\desktop\projet-v-presque finale - 22h - copie\projet-vpresque finale\projet informatique\hand.h
+	"Carte.h"
+	"Deck.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+
+1607195263 c:\users\abdelaziz\desktop\projet-v-presque finale - 22h - copie\projet-vpresque finale\projet informatique\joueur.h
+	"Deck.h"
+	"Carte.h"
+	"Hand.h"
+
+1607195644 c:\users\abdelaziz\desktop\projet-v-presque finale - 22h - copie\projet-vpresque finale\projet informatique\terrain.h
+	<iostream>
+	"Carte.h"
+	"Deck.h"
+	"Hand.h"
+	"Carte.h"
+	"Joueur.h"
+	"terrain.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1607197561 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h - copie\projet-vpresque finale\projet informatique\creerdeck.cpp
+	"header.h"
+
+1606237341 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h - copie\projet-vpresque finale\projet informatique\deck.cpp
+	"header.h"
+
+1606588500 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h - copie\projet-vpresque finale\projet informatique\hand.cpp
+	"header.h"
+
+1607098103 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h - copie\projet-vpresque finale\projet informatique\main.cpp
+	"header.h"
+
+1607098103 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h - copie\projet-vpresque finale\projet informatique\menu.cpp
+	"header.h"
+
+1606233843 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h - copie\projet-vpresque finale\projet informatique\piocheretcreermain.cpp
+	"header.h"
+
+1607196442 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h - copie\projet-vpresque finale\projet informatique\terrain.cpp
+	"header.h"
+
+1607197017 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h - copie\projet-vpresque finale\projet informatique\tour.cpp
+	"header.h"
+
+1607194544 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h - copie\projet-vpresque finale\projet informatique\initialiseretaffichagereserve.cpp
+	"header.h"
+
+1607195263 source:c:\users\abdelaziz\desktop\projet-v-presque finale - 22h - copie\projet-vpresque finale\projet informatique\joueur.cpp
+	"Joueur.h"
+	<iostream>
+	"header.h"
+
+1607165433 source:c:\users\abdelaziz\desktop\abdelkefi-chassagniou-samaha\projet informatique\carte.cpp
+	"header.h"
+
+1606668385 c:\users\abdelaziz\desktop\abdelkefi-chassagniou-samaha\projet informatique\header.h
+	<iostream>
+	"Carte.h"
+	"Deck.h"
+	"Hand.h"
+	"Carte.h"
+	"Joueur.h"
+	"terrain.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606393379 c:\users\abdelaziz\desktop\abdelkefi-chassagniou-samaha\projet informatique\carte.h
+	<iostream>
+
+1606069444 c:\users\abdelaziz\desktop\abdelkefi-chassagniou-samaha\projet informatique\deck.h
+	"Carte.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+
+1606347246 c:\users\abdelaziz\desktop\abdelkefi-chassagniou-samaha\projet informatique\hand.h
+	"Carte.h"
+	"Deck.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+
+1607195263 c:\users\abdelaziz\desktop\abdelkefi-chassagniou-samaha\projet informatique\joueur.h
+	"Deck.h"
+	"Carte.h"
+	"Hand.h"
+
+1607195644 c:\users\abdelaziz\desktop\abdelkefi-chassagniou-samaha\projet informatique\terrain.h
+	<iostream>
+	"Carte.h"
+	"Deck.h"
+	"Hand.h"
+	"Carte.h"
+	"Joueur.h"
+	"terrain.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1607198475 source:c:\users\abdelaziz\desktop\abdelkefi-chassagniou-samaha\projet informatique\creerdeck.cpp
+	"header.h"
+
+1606237341 source:c:\users\abdelaziz\desktop\abdelkefi-chassagniou-samaha\projet informatique\deck.cpp
+	"header.h"
+
+1606588500 source:c:\users\abdelaziz\desktop\abdelkefi-chassagniou-samaha\projet informatique\hand.cpp
+	"header.h"
+
+1607261496 source:c:\users\abdelaziz\desktop\abdelkefi-chassagniou-samaha\projet informatique\initialiseretaffichagereserve.cpp
+	"header.h"
+
+1607195263 source:c:\users\abdelaziz\desktop\abdelkefi-chassagniou-samaha\projet informatique\joueur.cpp
+	"Joueur.h"
+	<iostream>
+	"header.h"
+
+1607098103 source:c:\users\abdelaziz\desktop\abdelkefi-chassagniou-samaha\projet informatique\main.cpp
+	"header.h"
+
+1607098103 source:c:\users\abdelaziz\desktop\abdelkefi-chassagniou-samaha\projet informatique\menu.cpp
+	"header.h"
+
+1606233843 source:c:\users\abdelaziz\desktop\abdelkefi-chassagniou-samaha\projet informatique\piocheretcreermain.cpp
+	"header.h"
+
+1607207366 source:c:\users\abdelaziz\desktop\abdelkefi-chassagniou-samaha\projet informatique\terrain.cpp
+	"header.h"
+
+1607197017 source:c:\users\abdelaziz\desktop\abdelkefi-chassagniou-samaha\projet informatique\tour.cpp
+	"header.h"
+
+1607353009 source:c:\users\abdelaziz\desktop\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\carte.cpp
+	"header.h"
+
+1606668385 c:\users\abdelaziz\desktop\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\header.h
+	<iostream>
+	"Carte.h"
+	"Deck.h"
+	"Hand.h"
+	"Carte.h"
+	"Joueur.h"
+	"terrain.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606393379 c:\users\abdelaziz\desktop\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\carte.h
+	<iostream>
+
+1606069444 c:\users\abdelaziz\desktop\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\deck.h
+	"Carte.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+
+1606347246 c:\users\abdelaziz\desktop\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\hand.h
+	"Carte.h"
+	"Deck.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+
+1607195263 c:\users\abdelaziz\desktop\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\joueur.h
+	"Deck.h"
+	"Carte.h"
+	"Hand.h"
+
+1607195644 c:\users\abdelaziz\desktop\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\terrain.h
+	<iostream>
+	"Carte.h"
+	"Deck.h"
+	"Hand.h"
+	"Carte.h"
+	"Joueur.h"
+	"terrain.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1607198475 source:c:\users\abdelaziz\desktop\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\creerdeck.cpp
+	"header.h"
+
+1606237341 source:c:\users\abdelaziz\desktop\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\deck.cpp
+	"header.h"
+
+1606588500 source:c:\users\abdelaziz\desktop\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\hand.cpp
+	"header.h"
+
+1607195263 source:c:\users\abdelaziz\desktop\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\joueur.cpp
+	"Joueur.h"
+	<iostream>
+	"header.h"
+
+1607098103 source:c:\users\abdelaziz\desktop\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\main.cpp
+	"header.h"
+
+1606233843 source:c:\users\abdelaziz\desktop\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\piocheretcreermain.cpp
+	"header.h"
+
+1607207366 source:c:\users\abdelaziz\desktop\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\terrain.cpp
+	"header.h"
+
+1607197017 source:c:\users\abdelaziz\desktop\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\tour.cpp
+	"header.h"
+
+1607263022 source:c:\users\abdelaziz\desktop\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\initialiseretaffichagereserve.cpp
+	"header.h"
+
+1607098103 source:c:\users\abdelaziz\desktop\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\menu.cpp
+	"header.h"
+
+1607356609 source:c:\users\abdelaziz\onedrive\bureau\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\carte.cpp
+	"header.h"
+
+1606671985 c:\users\abdelaziz\onedrive\bureau\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\header.h
+	<iostream>
+	"Carte.h"
+	"Deck.h"
+	"Hand.h"
+	"Carte.h"
+	"Joueur.h"
+	"terrain.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1606396979 c:\users\abdelaziz\onedrive\bureau\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\carte.h
+	<iostream>
+
+1606073044 c:\users\abdelaziz\onedrive\bureau\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\deck.h
+	"Carte.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+
+1606350846 c:\users\abdelaziz\onedrive\bureau\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\hand.h
+	"Carte.h"
+	"Deck.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+
+1607198863 c:\users\abdelaziz\onedrive\bureau\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\joueur.h
+	"Deck.h"
+	"Carte.h"
+	"Hand.h"
+
+1607199244 c:\users\abdelaziz\onedrive\bureau\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\terrain.h
+	<iostream>
+	"Carte.h"
+	"Deck.h"
+	"Hand.h"
+	"Carte.h"
+	"Joueur.h"
+	"terrain.h"
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1607202075 source:c:\users\abdelaziz\onedrive\bureau\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\creerdeck.cpp
+	"header.h"
+
+1606240941 source:c:\users\abdelaziz\onedrive\bureau\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\deck.cpp
+	"header.h"
+
+1606592100 source:c:\users\abdelaziz\onedrive\bureau\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\hand.cpp
+	"header.h"
+
+1607266622 source:c:\users\abdelaziz\onedrive\bureau\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\initialiseretaffichagereserve.cpp
+	"header.h"
+
+1607198863 source:c:\users\abdelaziz\onedrive\bureau\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\joueur.cpp
+	"Joueur.h"
+	<iostream>
+	"header.h"
+
+1607101703 source:c:\users\abdelaziz\onedrive\bureau\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\main.cpp
+	"header.h"
+
+1606237443 source:c:\users\abdelaziz\onedrive\bureau\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\piocheretcreermain.cpp
+	"header.h"
+
+1607210966 source:c:\users\abdelaziz\onedrive\bureau\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\terrain.cpp
+	"header.h"
+
+1607200617 source:c:\users\abdelaziz\onedrive\bureau\informatique 2\abdelkefi-chassagniou-samaha\projet informatique\tour.cpp
+	"header.h"
+
